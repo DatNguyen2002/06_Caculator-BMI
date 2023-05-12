@@ -1,0 +1,15 @@
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\bin\Debug\net7.0\BMI.exe
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\bin\Debug\net7.0\BMI.deps.json
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\bin\Debug\net7.0\BMI.runtimeconfig.json
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\bin\Debug\net7.0\BMI.dll
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\bin\Debug\net7.0\BMI.pdb
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.csproj.AssemblyReference.cache
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.AssemblyInfoInputs.cache
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.AssemblyInfo.cs
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.csproj.CoreCompileInputs.cache
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.dll
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\refint\BMI.dll
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.pdb
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\BMI.genruntimeconfig.cache
+E:\Dat\Unity\GitHub\06_Caculator-BMI\BMI\obj\Debug\net7.0\ref\BMI.dll
